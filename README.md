@@ -66,5 +66,5 @@ I bridge the gap between three critical domains to deliver end-to-end technical 
 ---
 <div align="center">
   <h3>Let's build something intelligent.</h3>
-  <p>Available for Data Science and Quant AI roles in London/Remote.</p>
+  <p>Available for Data Science and Quant AI roles in UK/Remote.</p>
 </div>
