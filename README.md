@@ -9,11 +9,11 @@
 <img src="sara_photo.jpg" width="180" style="border-radius: 50%; border: 2px solid #2ea44f;">
 
 **📍 Based in London, UK**
-** Right to Work: Graduate Visa (No sponsorship required for 2 years)**
+   Right to Work: Graduate Visa (No sponsorship required for 2 years)
 
 ---
 
-*"I am a 'Full-Stack Quant' and AI Engineer. I don't just build models; I build the entire financial product—from mathematical scoring engines to GenAI explanation layers."*
+*"I am a 'Full-Stack Quant' and AI Engineer. I don't just build models; I build the entire financial product from mathematical scoring engines to GenAI explanation layers."*
 
 </div>
 
