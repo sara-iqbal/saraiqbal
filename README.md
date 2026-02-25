@@ -20,9 +20,9 @@
 ##  Profile
 I bridge the gap between three critical domains to deliver end-to-end technical solutions:
 
-* ** Data Science:** Expertise in predictive modeling (XGBoost, BiLSTM) with a heavy focus on **Explainable AI (XAI)** using SHAP/LIME for ethical decision-making.
-* ** AI Engineering:** Architecting **Agentic Workflows** (Llama-3/Groq) and optimizing **Big Data** infrastructure (PySpark/GCP Dataproc).
-* ** Quantitative Analysis:** Portfolio risk management using **Black-Scholes, Monte Carlo simulations**, and **Greeks**, aligned with Basel III/IFRS 9 standards.
+*  ** Data Science:** Expertise in predictive modeling (XGBoost, BiLSTM) with a heavy focus on **Explainable AI (XAI)** using SHAP/LIME for ethical decision-making.
+*  ** AI Engineering:** Architecting **Agentic Workflows** (Llama-3/Groq) and optimizing **Big Data** infrastructure (PySpark/GCP Dataproc).
+*  ** Quantitative Analysis:** Portfolio risk management using **Black-Scholes, Monte Carlo simulations**, and **Greeks**, aligned with Basel III/IFRS 9 standards.
 
 ---
 
