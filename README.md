@@ -57,12 +57,6 @@ I bridge the gap between three critical domains to deliver end-to-end technical 
 
 ---
 
-##  GitHub Ecosystem
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sara-iqbal&show_icons=true&theme=radical" alt="Sara's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara-iqbal&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
-
 ---
 <div align="center">
   <h3>Let's build something intelligent.</h3>
