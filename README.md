@@ -4,7 +4,7 @@
 ### MSc Data Science | B.Tech CSE (AI & ML)
 **Specializing in Agentic AI, Quantitative Finance, and Real-Time Data Engineering**
 
-[LinkedIn](https://www.linkedin.com/in/saraiqbaldata0602) • [Email](mailto:saraiqbalcseaiml@gmail.com) • [Portfolio](#-highlighted-technical-projects)
+[LinkedIn](https://www.linkedin.com/in/saraiqbaldata0602) • [Email](mailto:saraiqbalcseaiml@gmail.com) 
 
 <img src="sara_photo.jpg" width="180" style="border-radius: 50%; border: 2px solid #2ea44f;">
 
